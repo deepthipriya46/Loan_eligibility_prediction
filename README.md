@@ -67,7 +67,7 @@ A public version of the dataset is available on Kaggle:
 **Dataset:** Loan Predication / Loan Prediction Dataset  
 **Source:** Kaggle
 
-[View Dataset on Kaggle](https://www.kaggle.com/ninzaami/loan-predication)
+[View Dataset on Kaggle](https://www.kaggle.com/datasets/tanishaj225/loancsv)
 
 The dataset contains applicant information such as income, education, employment status, credit history, loan amount, and property area. 
 
